@@ -45,7 +45,7 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=ra9miry&show_icons=true&theme=merko" alt="webDev's Github stats"/>
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?ra9miry=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?ra9miry=anuraghazra&layout=donut-vertical/>
     </td>
   </tr>
 </table>
