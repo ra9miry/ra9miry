@@ -45,7 +45,7 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=ra9miry&show_icons=true&theme=merko" alt="webDev's Github stats"/>
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ra9miry&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ra9miry&layout=compact&theme=vision-friendly-dark](https://github-readme-stats.vercel.app/api/top-langs/?ra9miry=anuraghazra&layout=compact" />
     </td>
   </tr>
 </table>
